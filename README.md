@@ -53,3 +53,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This tool is intended for legitimate purposes only. Please use responsibly and in accordance with the terms of service of any applications you use it with. 
+
+## UI Preview
+
+![{6695A472-0C5A-4E2D-8FB5-CB25AED266E2}](https://github.com/user-attachments/assets/9b95d391-4988-49f0-9599-da7bcb30f259)
