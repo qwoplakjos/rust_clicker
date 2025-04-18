@@ -56,4 +56,5 @@ This tool is intended for legitimate purposes only. Please use responsibly and i
 
 ## UI Preview
 
-![{6695A472-0C5A-4E2D-8FB5-CB25AED266E2}](https://github.com/user-attachments/assets/9b95d391-4988-49f0-9599-da7bcb30f259)
+![{D36C19DB-6696-49D9-92D6-36CB69C20385}](https://github.com/user-attachments/assets/f690c895-f760-45b4-9a60-dfec5f5edf90)
+
