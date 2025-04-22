@@ -19,7 +19,7 @@ A simple auto-clicker application written in Rust, featuring a modern GUI and cu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rust_clicker.git
+git clone https://github.com/qwoplakjos/rust_clicker.git
 cd rust_clicker
 ```
 
